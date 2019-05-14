@@ -56,7 +56,7 @@
      * @type {Number}
      * @default 60000
      */
-    this.timeout = 60000;
+    this.timeout = 120000;
   };
 
   exports.prototype.setInstanceName = function(name) {
